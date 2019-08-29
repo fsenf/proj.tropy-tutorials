@@ -19,9 +19,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'nbsphinx-rtd-test'
-copyright = u'2016, Tim Staley'
-author = u'Tim Staley'
+project = u'tropy-tutorials'
+copyright = u'2019, Fabian Senf'
+author = u'Fabian Senf'
 
 
 version = u'0.1'
