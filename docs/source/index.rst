@@ -9,7 +9,7 @@ Welcome to nbsphinx-rtd-test's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1 
 
    demo_notebook
    Meteosat_SEVIRI_data_class
