@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    demo_notebook
+   Meteosat_SEVIRI_data_class
 
 
 Indices and tables
