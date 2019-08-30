@@ -6,19 +6,15 @@
 Welcome to a Collection of Tutorials for the Python Package `tropy`
 ==================================================================
 
-Contents:
+Contents
+---------
 
 .. toctree::
    :maxdepth: 1 
-
+   :hidden:
+   :caption: Working with SEVIRI Data
+   
    Meteosat_SEVIRI_data_class
    Meteosat_SEVIRI_RGBs
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
