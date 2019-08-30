@@ -3,16 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to nbsphinx-rtd-test's documentation!
-=============================================
+Welcome to A Collection of Tutorial for the Python Package `tropy`
+==================================================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 1 
 
-   demo_notebook
    Meteosat_SEVIRI_data_class
+   ../notebooks/Meteosat_SEVIRI_RGBs.ipynb
 
 
 Indices and tables
