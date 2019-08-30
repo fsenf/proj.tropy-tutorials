@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to A Collection of Tutorial for the Python Package `tropy`
+Welcome to a Collection of Tutorials for the Python Package `tropy`
 ==================================================================
 
 Contents:
