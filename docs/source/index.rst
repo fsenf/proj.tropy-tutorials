@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 1 
 
    Meteosat_SEVIRI_data_class
-   ../notebooks/Meteosat_SEVIRI_RGBs.ipynb
+   Meteosat_SEVIRI_RGBs
 
 
 Indices and tables
