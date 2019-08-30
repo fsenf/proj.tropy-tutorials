@@ -5,9 +5,20 @@
 
 Welcome to a Collection of Tutorials for the Python Package `tropy`
 ==================================================================
+Intro
+-----
+This is a set of tutorial notebooks which aim to partially describe the functionality of the python package `tropy` which I started to develop at TROPOS since 2011. It contains a rather diverse collection of utility functions for which I did not found an appropriate solution in an existing package. The pyhton landscape has considerably changed - hence some of the tools are somehow outdated, some functions are now covered by established package collections. 
 
-Contents
----------
+All tutorials are available as jupyter notebooks.
+
+Tools for IO
+------------
+Function have been written to ease input of certain obervational or model-simulated fields available at TROPOS. These function included data from
+
+* **observations from Meteosat SEVIRI**
+  :doc:`with the 'MSevi' class <Meteosat_SEVIRI_data_class>` 
+* **observations from the DWD radolan Radar Composite**
+  :doc: `with the Radolan class TBD` 
 
 .. toctree::
    :maxdepth: 1 
@@ -16,5 +27,7 @@ Contents
    
    Meteosat_SEVIRI_data_class
    Meteosat_SEVIRI_RGBs
+
+   
 
 
