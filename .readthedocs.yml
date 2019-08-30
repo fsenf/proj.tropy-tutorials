@@ -6,8 +6,11 @@ python:
   install:
     - requirements: docs/requirements.txt
     - method: pip
-      path: .
   system_packages: true
+sphinx:
+  builder: html
+  configuration: docs/conf.py
+  fail_on_warning: true
 formats:
   - epub
   - pdf
