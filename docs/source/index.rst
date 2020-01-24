@@ -20,6 +20,16 @@ Function have been written to ease input of certain obervational or model-simula
 * **observations from the DWD radolan Radar Composite**
   :doc: `with the Radolan class TBD` 
 
+
+Tools for Plotting
+------------------
+Some helper functions to make typical task in plotting easier.
+
+* **plotting shades with a non-linear (discrete) colormap**
+  :doc:`with the 'shaded' module <Shaded_Plots_with_Nonlinear_Colormaps>`
+
+
+
 .. toctree::
    :maxdepth: 1 
    :hidden:
