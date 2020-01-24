@@ -30,13 +30,15 @@ Some helper functions to make typical task in plotting easier.
 
 * **plotting shades with a non-linear (discrete) colormap**
   :doc:`with the 'shaded' module <Shaded_Plots_with_Nonlinear_Colormaps>`
-
+* **adding meta data to PNG Files**
+  :doc:`with the 'meta2png' module <Adding_Meta-Data_to_PNG_File>` 
+ 
 
 
 .. toctree::
    :maxdepth: 1 
    :hidden:
-   :caption: Working with SEVIRI Data
+   :caption: Data IO
    
    Meteosat_SEVIRI_data_class
    Meteosat_SEVIRI_RGBs
@@ -47,7 +49,7 @@ Some helper functions to make typical task in plotting easier.
    :caption: Plotting
 
    Shaded_Plots_with_Nonlinear_Colormaps
-
+   Adding_Meta-Data_to_PNG_File
    
 
 
