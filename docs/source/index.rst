@@ -28,6 +28,9 @@ Function have been written to ease input of certain obervational or model-simula
    Meteosat_SEVIRI_data_class
    Meteosat_SEVIRI_RGBs
 
+.. toctree::
+   :maxdepth: 1 
+   :hidden:
    :caption: Plotting
 
    Shaded_Plots_with_Nonlinear_Colormaps
