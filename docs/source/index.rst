@@ -30,9 +30,11 @@ Some helper functions to make typical task in plotting easier.
 
 * **plotting shades with a non-linear (discrete) colormap**
   :doc:`with the 'shaded' module <Shaded_Plots_with_Nonlinear_Colormaps>`
+* **using some special colormaps**
+  :doc:`with the 'colormaps' module <Plots_with_Self-defined_Colormaps>` 
 * **adding meta data to PNG Files**
   :doc:`with the 'meta2png' module <Adding_Meta-Data_to_PNG_File>` 
- 
+
 
 
 .. toctree::
@@ -49,6 +51,7 @@ Some helper functions to make typical task in plotting easier.
    :caption: Plotting
 
    Shaded_Plots_with_Nonlinear_Colormaps
+   Plots_with_Self-defined_Colormaps
    Adding_Meta-Data_to_PNG_File
    
 
