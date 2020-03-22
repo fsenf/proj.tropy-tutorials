@@ -36,6 +36,14 @@ Some helper functions to make typical task in plotting easier.
   :doc:`with the 'meta2png' module <Adding_Meta-Data_to_PNG_File>` 
 
 
+Tools for Analysis
+------------------
+Some helper functions to make special tasks in data analysis easier.
+
+* **rank transformations and histogram matching**
+  :doc:`with the 'statistics' module <Rank_Transformation_and_Histogram_Matching>`
+
+
 
 .. toctree::
    :maxdepth: 1 
@@ -54,5 +62,9 @@ Some helper functions to make typical task in plotting easier.
    Plots_with_Self-defined_Colormaps
    Adding_Meta-Data_to_PNG_File
    
+.. toctree::
+   :maxdepth: 1 
+   :hidden:
+   :caption: Analysis
 
-
+   Rank_Transformation_and_Histogram_Matching
